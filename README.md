@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kayla Cameron!
-- 👀 I’m interested in public health (biostatistics, epidemiology, and health policy) & data analytics.
+- 👀 I’m interested in public health & data analytics.
 - 🌱 I’m currently learning and/or improving on: Excel, R, SQL, and Tableau
 - 📫 How to reach me: via email at kaylazcameron@gmail.com
 
